@@ -1,0 +1,12 @@
+# Flask
+# mysql-connector
+# simplejson
+
+
+
+Flask
+mysql-connector==2.2.9
+PyMySQL==1.0.2
+redis==4.2.0
+rq==1.10.1
+requests
